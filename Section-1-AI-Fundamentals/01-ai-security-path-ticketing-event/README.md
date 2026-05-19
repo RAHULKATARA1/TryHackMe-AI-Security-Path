@@ -21,7 +21,7 @@ No machines to deploy. No flags to capture. Just read, acknowledge, and move on.
 
 ---
 
-## 🧠 Key Concepts Introduced
+## 🧠 Key Concepts
 
 ### Why AI Security?
 AI is being rapidly integrated into production systems — from LLM-powered chatbots to automated ML pipelines. This creates a brand new attack surface that traditional security training doesn't cover. Attackers are already exploiting:
