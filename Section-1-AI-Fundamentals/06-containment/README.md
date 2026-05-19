@@ -4,7 +4,7 @@
 > **Difficulty:** Medium
 > **Type:** CTF Lab (AI-Assisted DFIR Investigation)
 > **Room Link:** [https://tryhackme.com/room/containment](https://tryhackme.com/room/containment)
-> **Completed:** DD/MM/YYYY
+> **Completed:** 19/05/2026
 
 ---
 

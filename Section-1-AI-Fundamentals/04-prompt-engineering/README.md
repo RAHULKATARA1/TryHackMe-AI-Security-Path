@@ -4,7 +4,7 @@
 > **Difficulty:** Easy
 > **Type:** Theory + Interactive Lab (PromptSec Agent)
 > **Room Link:** [https://tryhackme.com/room/promptengineeringaisec](https://tryhackme.com/room/promptengineeringaisec)
-> **Completed:** DD/MM/YYYY
+> **Completed:** 19/05/2026
 
 ---
 

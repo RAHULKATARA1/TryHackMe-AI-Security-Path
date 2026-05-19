@@ -4,7 +4,7 @@
 > **Difficulty:** Medium
 > **Type:** Theory + Practical Lab
 > **Room Link:** [https://tryhackme.com/room/aimodelsdata](https://tryhackme.com/room/aimodelsdata)
-> **Completed:** DD/MM/YYYY
+> **Completed:** 19/05/2026
 
 ---
 

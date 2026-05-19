@@ -4,7 +4,7 @@
 > **Difficulty:** Medium
 > **Type:** Theory + Practical Lab (DFIR Investigation)
 > **Room Link:** [https://tryhackme.com/room/aiforensics](https://tryhackme.com/room/aiforensics)
-> **Completed:** DD/MM/YYYY
+> **Completed:** 19/05/2026
 
 ---
 
