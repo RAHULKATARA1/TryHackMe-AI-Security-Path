@@ -43,11 +43,11 @@ The path covers:
 
 | # | Room | Type | Status |
 |---|------|------|--------|
-| 7 | [Securing AI Systems](./Section-2-Secure-AI-Systems/01-securing-ai-systems/README.md) | Theory | ⬜ Not Started |
-| 8 | [LLM Security](./Section-2-Secure-AI-Systems/02-llm-security/README.md) | Theory | ⬜ Not Started |
-| 9 | [AI Threat Modelling](./Section-2-Secure-AI-Systems/03-ai-threat-modelling/README.md) | Theory | ⬜ Not Started |
-| 10 | [AI System Reconnaissance](./Section-2-Secure-AI-Systems/04-ai-system-reconnaissance/README.md) | Lab | ⬜ Not Started |
-| 11 | [AI Threat Modelling Assessment](./Section-2-Secure-AI-Systems/05-ai-threat-modelling-assessment/README.md) | Assessment | ⬜ Not Started |
+| 7 | [Securing AI Systems](./Section-2-Secure-AI-Systems/01-securing-ai-systems/README.md) | Theory | ✅ Completed |
+| 8 | [LLM Security](./Section-2-Secure-AI-Systems/02-llm-security/README.md) | Theory | ✅ Completed |
+| 9 | [AI Threat Modelling](./Section-2-Secure-AI-Systems/03-ai-threat-modelling/README.md) | Theory | ✅ Completed |
+| 10 | [AI System Reconnaissance](./Section-2-Secure-AI-Systems/04-ai-system-reconnaissance/README.md) | Lab | ✅ Completed |
+| 11 | [AI Threat Modelling Assessment](./Section-2-Secure-AI-Systems/05-ai-threat-modelling-assessment/README.md) | Assessment | ✅ Completed |
 
 ---
 
@@ -144,11 +144,11 @@ THM-AI-Security-Path/
 | Section | Rooms | Completed | Progress |
 |---------|-------|-----------|----------|
 | AI Fundamentals | 6 | 0 | ⬜⬜⬜⬜⬜⬜ |
-| Secure AI Systems | 5 | 0 | ⬜⬜⬜⬜⬜ |
+| Secure AI Systems | 5 | 5 | 🟩🟩🟩🟩🟩 |
 | Prompt Security | 5 | 0 | ⬜⬜⬜⬜⬜ |
 | AI Supply Chain | 5 | 0 | ⬜⬜⬜⬜⬜ |
 | Data Poisoning | 5 | 0 | ⬜⬜⬜⬜⬜ |
-| **Total** | **26** | **0** | **0%** |
+| **Total** | **26** | **5** | **19%** |
 
 ---
 
