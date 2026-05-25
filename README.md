@@ -67,11 +67,11 @@ The path covers:
 
 | # | Room | Type | Status |
 |---|------|------|--------|
-| 17 | [Understanding AI Supply Chains](./Section-4-AI-Supply-Chain-Security/01-understanding-ai-supply-chains/README.md) | Theory | ⬜ Not Started |
-| 18 | [Supply Chain Attack Vectors](./Section-4-AI-Supply-Chain-Security/02-supply-chain-attack-vectors/README.md) | Theory | ⬜ Not Started |
-| 19 | [Securing the AI Supply Chain](./Section-4-AI-Supply-Chain-Security/03-securing-the-ai-supply-chain/README.md) | Theory | ⬜ Not Started |
-| 20 | [Payload](./Section-4-AI-Supply-Chain-Security/04-payload/README.md) | CTF Lab | ⬜ Not Started |
-| 21 | [Checkpoint](./Section-4-AI-Supply-Chain-Security/05-checkpoint/README.md) | CTF Lab | ⬜ Not Started |
+| 17 | [Understanding AI Supply Chains](./Section-4-AI-Supply-Chain-Security/01-understanding-ai-supply-chains/README.md) | Theory | ✅ Completed |
+| 18 | [Supply Chain Attack Vectors](./Section-4-AI-Supply-Chain-Security/02-supply-chain-attack-vectors/README.md) | Theory | ✅ Completed |
+| 19 | [Securing the AI Supply Chain](./Section-4-AI-Supply-Chain-Security/03-securing-the-ai-supply-chain/README.md) | Theory | ✅ Completed |
+| 20 | [Payload](./Section-4-AI-Supply-Chain-Security/04-payload/README.md) | CTF Lab | ✅ Completed |
+| 21 | [Checkpoint](./Section-4-AI-Supply-Chain-Security/05-checkpoint/README.md) | CTF Lab | ✅ Completed |
 
 ---
 
@@ -146,9 +146,9 @@ THM-AI-Security-Path/
 | AI Fundamentals | 6 | 0 | ⬜⬜⬜⬜⬜⬜ |
 | Secure AI Systems | 5 | 5 | 🟩🟩🟩🟩🟩 |
 | Prompt Security | 5 | 5 | 🟩🟩🟩🟩🟩 |
-| AI Supply Chain | 5 | 0 | ⬜⬜⬜⬜⬜ |
+| AI Supply Chain | 5 | 5 | 🟩🟩🟩🟩🟩 |
 | Data Poisoning | 5 | 0 | ⬜⬜⬜⬜⬜ |
-| **Total** | **26** | **10** | **38%** |
+| **Total** | **26** | **15** | **58%** |
 
 ---
 
