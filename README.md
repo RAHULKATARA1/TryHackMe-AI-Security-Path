@@ -5,8 +5,8 @@
 <div align="center">
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-AI%20Security%20Path-red?style=for-the-badge&logo=tryhackme)
-![Rooms Done](https://img.shields.io/badge/Rooms%20Documented-20%2F26-brightgreen?style=for-the-badge)
-![Sections](https://img.shields.io/badge/Sections%202--5-100%25%20Complete-success?style=for-the-badge)
+![Rooms Done](https://img.shields.io/badge/Rooms%20Documented-26%2F26-brightgreen?style=for-the-badge)
+![Sections](https://img.shields.io/badge/Sections%201--5-100%25%20Complete-success?style=for-the-badge)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium%20%E2%80%93%20Hard-orange?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Red%20Team%20%7C%20Blue%20Team%20%7C%20MLSecOps-blueviolet?style=for-the-badge)
 
@@ -18,7 +18,7 @@
 
 This is a **technical write-up repository** for the [TryHackMe AI Security Path](https://tryhackme.com/path/outline/aisecurity) — a 26-room learning path covering the full attack and defence surface of modern AI systems.
 
-Every room in Sections 2–5 is documented with:
+Every room in the path is documented with:
 - **Deep-dive concept breakdowns** — not surface-level summaries, but first-principles analysis
 - **Attack walkthroughs** — real payloads, tooling, and step-by-step methodology
 - **Defensive implementations** — working code, architecture diagrams, and security patterns
@@ -61,18 +61,16 @@ Every room in Sections 2–5 is documented with:
 
 ## 🗺️ Path Structure & Progress
 
-### 📦 Section 1 — AI Fundamentals
+### 📦 Section 1 — AI Fundamentals ✅
 
-> 📝 *Rooms completed on platform — write-ups in progress.*
-
-| # | Room | Type | Status |
-|---|------|------|--------|
-| 1 | [AI Security Path Ticketing Event](./Section-1-AI-Fundamentals/01-ai-security-path-ticketing-event/README.md) | Intro | 📝 Write-up Pending |
-| 2 | [AI/ML Security Threats](./Section-1-AI-Fundamentals/02-ai-ml-security-threats/README.md) | Theory | 📝 Write-up Pending |
-| 3 | [AI Models & Data](./Section-1-AI-Fundamentals/03-ai-models-and-data/README.md) | Theory | 📝 Write-up Pending |
-| 4 | [Prompt Engineering](./Section-1-AI-Fundamentals/04-prompt-engineering/README.md) | Theory | 📝 Write-up Pending |
-| 5 | [AI Forensics](./Section-1-AI-Fundamentals/05-ai-forensics/README.md) | Theory | 📝 Write-up Pending |
-| 6 | [ContAInment](./Section-1-AI-Fundamentals/06-containment/README.md) | Lab | 📝 Write-up Pending |
+| # | Room | Type | Key Skills |
+|---|------|------|-----------|
+| 1 | [AI Security Path Ticketing Event](./Section-1-AI-Fundamentals/01-ai-security-path-ticketing-event/README.md) | Intro | Path introduction, lab environment setup |
+| 2 | [AI/ML Security Threats](./Section-1-AI-Fundamentals/02-ai-ml-security-threats/README.md) | Theory | High-level threat taxonomy, attack surface overview |
+| 3 | [AI Models & Data](./Section-1-AI-Fundamentals/03-ai-models-and-data/README.md) | Theory | ML lifecycle, data privacy, model architectures |
+| 4 | [Prompt Engineering](./Section-1-AI-Fundamentals/04-prompt-engineering/README.md) | Theory | System prompts, in-context learning, few-shot prompting |
+| 5 | [AI Forensics](./Section-1-AI-Fundamentals/05-ai-forensics/README.md) | Theory | AI incident response basics, audit logs, tracking |
+| 6 | [ContAInment](./Section-1-AI-Fundamentals/06-containment/README.md) | Lab | Introductory prompt injection, basic defensive instructions |
 
 ---
 
@@ -128,12 +126,12 @@ Every room in Sections 2–5 is documented with:
 
 | Section | Rooms | Write-ups | Progress |
 |---------|-------|-----------|----------|
-| AI Fundamentals | 6 | 📝 Pending | 🟨🟨🟨🟨🟨🟨 |
+| AI Fundamentals | 6 | ✅ Complete | 🟩🟩🟩🟩🟩🟩 |
 | Secure AI Systems | 5 | ✅ Complete | 🟩🟩🟩🟩🟩 |
 | Prompt Security | 5 | ✅ Complete | 🟩🟩🟩🟩🟩 |
 | AI Supply Chain | 5 | ✅ Complete | 🟩🟩🟩🟩🟩 |
 | Data Poisoning | 5 | ✅ Complete | 🟩🟩🟩🟩🟩 |
-| **Total** | **26** | **20 documented** | **77% write-ups done** |
+| **Total** | **26** | **26 documented** | **100% complete!** |
 
 ---
 
@@ -144,7 +142,7 @@ TryHackMe-AI-Security-Path/
 │
 ├── README.md                               ← You are here
 │
-├── Section-1-AI-Fundamentals/
+├── Section-1-AI-Fundamentals/              ✅ Fully documented
 │   ├── 01-ai-security-path-ticketing-event/
 │   ├── 02-ai-ml-security-threats/
 │   ├── 03-ai-models-and-data/
@@ -220,6 +218,6 @@ Every room README follows this structure:
 *Built by a cybersecurity practitioner obsessed with the intersection of AI and offensive security.*  
 *If this repo helped you — drop a ⭐. Open an issue if you spot an error or want to discuss a technique.*
 
-**Sections 2–5 fully documented · Section 1 write-ups coming soon**
+**All 26 rooms fully documented!**
 
 </div>
