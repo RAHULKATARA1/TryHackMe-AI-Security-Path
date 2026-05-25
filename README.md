@@ -55,11 +55,11 @@ The path covers:
 
 | # | Room | Type | Status |
 |---|------|------|--------|
-| 12 | [Prompt Injection](./Section-3-Prompt-Security/01-prompt-injection/README.md) | Theory + Lab | ⬜ Not Started |
-| 13 | [Jailbreaking](./Section-3-Prompt-Security/02-jailbreaking/README.md) | Theory + Lab | ⬜ Not Started |
-| 14 | [Prompt Defence](./Section-3-Prompt-Security/03-prompt-defence/README.md) | Theory + Lab | ⬜ Not Started |
-| 15 | [LLMborghini](./Section-3-Prompt-Security/04-llmborghini/README.md) | CTF Lab | ⬜ Not Started |
-| 16 | [White Rabbit](./Section-3-Prompt-Security/05-white-rabbit/README.md) | CTF Lab | ⬜ Not Started |
+| 12 | [Prompt Injection](./Section-3-Prompt-Security/01-prompt-injection/README.md) | Theory + Lab | ✅ Completed |
+| 13 | [Jailbreaking](./Section-3-Prompt-Security/02-jailbreaking/README.md) | Theory + Lab | ✅ Completed |
+| 14 | [Prompt Defence](./Section-3-Prompt-Security/03-prompt-defence/README.md) | Theory + Lab | ✅ Completed |
+| 15 | [LLMborghini](./Section-3-Prompt-Security/04-llmborghini/README.md) | CTF Lab | ✅ Completed |
+| 16 | [White Rabbit](./Section-3-Prompt-Security/05-white-rabbit/README.md) | CTF Lab | ✅ Completed |
 
 ---
 
@@ -145,10 +145,10 @@ THM-AI-Security-Path/
 |---------|-------|-----------|----------|
 | AI Fundamentals | 6 | 0 | ⬜⬜⬜⬜⬜⬜ |
 | Secure AI Systems | 5 | 5 | 🟩🟩🟩🟩🟩 |
-| Prompt Security | 5 | 0 | ⬜⬜⬜⬜⬜ |
+| Prompt Security | 5 | 5 | 🟩🟩🟩🟩🟩 |
 | AI Supply Chain | 5 | 0 | ⬜⬜⬜⬜⬜ |
 | Data Poisoning | 5 | 0 | ⬜⬜⬜⬜⬜ |
-| **Total** | **26** | **5** | **19%** |
+| **Total** | **26** | **10** | **38%** |
 
 ---
 
